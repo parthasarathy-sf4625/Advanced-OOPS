@@ -1,0 +1,15 @@
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\bin\Debug\net7.0\PartialClassesAndMethods.exe
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\bin\Debug\net7.0\PartialClassesAndMethods.deps.json
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\bin\Debug\net7.0\PartialClassesAndMethods.runtimeconfig.json
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\bin\Debug\net7.0\PartialClassesAndMethods.dll
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\bin\Debug\net7.0\PartialClassesAndMethods.pdb
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\obj\Debug\net7.0\PartialClassesAndMethods.csproj.AssemblyReference.cache
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\obj\Debug\net7.0\PartialClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\obj\Debug\net7.0\PartialClassesAndMethods.AssemblyInfoInputs.cache
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\obj\Debug\net7.0\PartialClassesAndMethods.AssemblyInfo.cs
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\obj\Debug\net7.0\PartialClassesAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\obj\Debug\net7.0\PartialClassesAndMethods.dll
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\obj\Debug\net7.0\refint\PartialClassesAndMethods.dll
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\obj\Debug\net7.0\PartialClassesAndMethods.pdb
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\obj\Debug\net7.0\PartialClassesAndMethods.genruntimeconfig.cache
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\Abstraction\PartialClassesAndMethods\obj\Debug\net7.0\ref\PartialClassesAndMethods.dll

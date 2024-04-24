@@ -1,0 +1,15 @@
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.exe
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.deps.json
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.runtimeconfig.json
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.dll
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\bin\Debug\net7.0\ReadWriteTXT.pdb
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.csproj.AssemblyReference.cache
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.AssemblyInfoInputs.cache
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.AssemblyInfo.cs
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.csproj.CoreCompileInputs.cache
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.dll
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\obj\Debug\net7.0\refint\ReadWriteTXT.dll
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.pdb
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\obj\Debug\net7.0\ReadWriteTXT.genruntimeconfig.cache
+C:\Users\Parthasarathyvenkidu\OneDrive - Syncfusion\Desktop\ReadWriteTXT\obj\Debug\net7.0\ref\ReadWriteTXT.dll
